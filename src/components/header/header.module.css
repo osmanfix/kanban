@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0067A3;
+    color: #FFFFFF;
+    padding: 0 20px;
+}
+
+
+
+@media screen and (max-width: 1226px) {
+    .header {
+        justify-content: flex-end;
+        background-color: transparent ;
+    }
+
+    .titleSite {  
+        display: none;
+    }
+}

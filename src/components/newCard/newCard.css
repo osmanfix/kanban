@@ -1,0 +1,18 @@
+input {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: solid 1px white;
+    width: 100%;
+    line-height: 21px;
+}
+
+input:focus {
+    outline: none;
+}
+.enter {
+    color: grey;
+    margin: 5px 0;
+}

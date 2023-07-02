@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #0079BF;
+}
+
+.background {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+*{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+}

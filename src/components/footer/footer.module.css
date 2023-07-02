@@ -1,0 +1,25 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0067A3;
+    color: #FFFFFF;
+    padding: 0 20px;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.status {
+    display: flex;
+}
+
+.statusText {
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 1226px) {
+    .footer {
+        display: none;
+    }
+}
