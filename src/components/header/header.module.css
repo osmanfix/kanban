@@ -19,6 +19,6 @@
     }
 
     .titleSite {  
-        font-size: 25px;
+        display: none;
     }
 }
