@@ -4,6 +4,10 @@
     background-color: #0067A3;
     color: #FFFFFF;
     padding: 0 20px;
+}    
+
+.titleSite {  
+    font-size: 20px;
 }
 
 
@@ -15,6 +19,6 @@
     }
 
     .titleSite {  
-        display: none;
+        font-size: 25px;
     }
 }
